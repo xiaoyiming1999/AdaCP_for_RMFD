@@ -199,7 +199,8 @@ AdaCP_for_RMFD/
 
 ## Citation
 
-If you find this repository useful in your research, please consider citing the corresponding paper (to be updated upon publication).
+If you find this repository useful in your research, please consider citing the corresponding paper:
+Haidong Shao*, Yiming Xiao, Jiewu Leng, Xiaoli Zhao, Bin Liu. Collaborative human-computer fault diagnosis via calibrated confidence estimation[J]. Advanced Engineering Informatics, 2025, 65, 103349
 
 ## Acknowledgements
 

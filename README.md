@@ -219,7 +219,7 @@ BibTeX:
 
 ## Acknowledgements
 
-This work is developed by the HNU Intelligent Fault Diagnosis Group. The 1-D backbone implementations are adapted from public PyTorch model zoos, and the reliability-diagram tool is adapted from open-source calibration toolkits. The data preprocessing and unsupervised deep transfer learning (UDTL) components are adapted from the work proposed by Zhao et al., *Applications of Unsupervised Deep Transfer Learning to Intelligent Fault Diagnosis: A Survey and Comparative Study*.
+This work is developed by the HNU Intelligent Fault Diagnosis Group. The data preprocessing and model components are adapted from the work proposed by Zhao et al., *Applications of Unsupervised Deep Transfer Learning to Intelligent Fault Diagnosis: A Survey and Comparative Study*.
 
 ## Contact
 

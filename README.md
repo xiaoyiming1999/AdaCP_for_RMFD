@@ -199,12 +199,32 @@ AdaCP_for_RMFD/
 
 ## Citation
 
-If you find this repository useful in your research, please consider citing the corresponding paper:
-Haidong Shao*, Yiming Xiao, Jiewu Leng, Xiaoli Zhao, Bin Liu. Collaborative human-computer fault diagnosis via calibrated confidence estimation[J]. Advanced Engineering Informatics, 2025, 65, 103349
+If you find this repository useful in your research, please consider citing the following paper:
+
+> Haidong Shao, Yiming Xiao, Jiewu Leng, Xiaoli Zhao, Bin Liu. Collaborative human-computer fault diagnosis via calibrated confidence estimation[J]. Advanced Engineering Informatics, 2025, 65: 103349.
+
+BibTeX:
+
+```bibtex
+@article{shao2025collaborative,
+  author  = {Shao, Haidong and Xiao, Yiming and Leng, Jiewu and Zhao, Xiaoli and Liu, Bin},
+  title   = {Collaborative human-computer fault diagnosis via calibrated confidence estimation},
+  journal = {Advanced Engineering Informatics},
+  volume  = {65},
+  pages   = {103349},
+  year    = {2025},
+  doi     = {10.1016/j.aei.2025.103349}
+}
+```
 
 ## Acknowledgements
 
-This work is developed by the HNU Intelligent Fault Diagnosis Group. The 1-D backbone implementations are adapted from public PyTorch model zoos, and the reliability-diagram tool is adapted from open-source calibration toolkits.
+This work is developed by the HNU Intelligent Fault Diagnosis Group. The 1-D backbone implementations are adapted from public PyTorch model zoos, and the reliability-diagram tool is adapted from open-source calibration toolkits. The data preprocessing and unsupervised deep transfer learning (UDTL) components are adapted from the work proposed by Zhao et al., *Applications of Unsupervised Deep Transfer Learning to Intelligent Fault Diagnosis: A Survey and Comparative Study*.
+
+## Contact
+
+- **Author:** Yiming Xiao — xiaoym@hnu.edu.cn
+- **Mentor:** Haidong Shao — hdshao@hnu.edu.cn
 
 ## License
 
